@@ -1,6 +1,6 @@
-streamlit
-pandas
-numpy
+Python 3.x
+OpenCV (cv2)
+NumPy
 scikit-learn
-matplotlib
-cv2
+Matplotlib
+tqdm
