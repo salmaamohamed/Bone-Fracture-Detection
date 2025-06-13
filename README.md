@@ -1,5 +1,5 @@
 # Bone Fracture Detection using Machine Learning
-
+![Bone Fracture Detection App Screenshot](screenshot.png)
 ## Project Overview
 This project aims to detect bone fractures from X-ray images using computer vision and machine learning techniques.
 The implementation involves 
